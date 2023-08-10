@@ -1,0 +1,15 @@
+0 Bean
+1 Bell_Pepper
+2 Bitter_ground
+3 Bottle_ground
+4 Brinjal
+5 Broccoli
+6 Cabbage
+7 Carrot
+8 Cauliflower
+9 Cucumber
+10 Papaya
+11 Potato
+12 Pumpkin
+13 Radish
+14 Tomato
